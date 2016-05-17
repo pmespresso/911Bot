@@ -1,0 +1,19 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "A node server for an FB Messenger Bot tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "YJ Ki",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
